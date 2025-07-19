@@ -42,7 +42,8 @@ input::placeholder{
 }#searcbutton{
     width:80px;
     height: 30px;
-    margin: 0 auto;
+ 
+    margin: 10px auto;
     background-color:lightsalmon;
     border-radius:12px;
     border-color: chocolate;
